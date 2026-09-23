@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/Nel-Well/property-api.git
+[submodule "app"]
+	path = app
+	url = https://github.com/Nel-Well/property-app.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Nel-Well/property-mobile.git
