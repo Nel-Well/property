@@ -500,6 +500,7 @@ The API behavior must include:
 - SEO-friendly public listing and location routes
 - Image gallery with mobile-friendly interaction
 - Display price and area units consistently, with room for Myanmar-localized formats
+- Provide English and Burmese interface language options; retain the visitor's selection across sessions and set the document language for accessibility
 
 ## 11. Mobile application requirements
 
