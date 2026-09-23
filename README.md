@@ -12,6 +12,16 @@ Property Portal is a Myanmar-focused marketplace for discovering, listing, renti
 
 Each directory is its own Git repository and has its own install and development commands.
 
+## Clone the workspace
+
+Clone the root repository with its three independent projects:
+
+```bash
+git clone --recurse-submodules https://github.com/Nel-Well/property.git
+```
+
+If the root repository is already cloned, initialize its submodules with `git submodule update --init --recursive`.
+
 ## Documentation
 
 - [AGENTS.md](AGENTS.md) — stable architecture, technology choices, and project boundaries
